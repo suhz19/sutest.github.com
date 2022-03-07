@@ -10,4 +10,4 @@
 
 > sample
 
-<censored address>
+[address](censored)
